@@ -198,8 +198,6 @@ Dashboard Design
 Data Visualization
 
 Business Insight Generation
-
--- Aanchal--
     ├── Gender Distribution
     ├── Department Analysis
     └── Visit Status Analysis
