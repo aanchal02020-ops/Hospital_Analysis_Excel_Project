@@ -8,6 +8,12 @@ The dataset contains approximately **1,000,000 hospital records** covering the p
 
 The main objective of this project is to transform raw hospital data into meaningful insights through **data cleaning, analysis, PivotTables, PivotCharts, slicers, and an interactive dashboard**.
 
+## Description & Link
+Due to large file size limitations on GitHub, the complete Excel dashboard and raw dataset files have been hosted on Google Drive
+You can access the complete project files(including the dashboard, raw data, and cleaned files) by clicking the link below 
+
+https://drive.google.com/drive/folders/1xQlh5YztJCzepklBUtVo4N3BpBWX1n99?usp=sharing
+
 ---
 
 # Project Objectives
